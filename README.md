@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Yahyo Abdujamolov, but you can call me Yehya
 
 <!--
 **abdujamolyehya/abdujamolyehya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
