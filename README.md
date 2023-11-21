@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jacob Jamison</h1>
+<h1 align="center">Hi 👋, I'm Yahyo Abdujamolov</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Advanced TypeScript and Node.js**
